@@ -8,7 +8,7 @@ How to create and manipulate tensors using `tf.Variable`, understand tensor rank
 
 [Neural Networks](https://github.com/zs-x/TensorFlowNotes/blob/main/fCC_NeuralNetwork.ipynb)
 
-In this notebook, I build and train a neural network using the Fashion MNIST dataset loaded with keras.datasets.fashion_mnist. It includes preprocessing the image data (normalization and reshaping), creating a Sequential model with Flatten and Dense layers, compiling it with an optimizer and loss function, training it with model.fit(), evaluating accuracy on test data, and making predictions on clothing images.
+In this notebook, I build and train a neural network using the Fashion MNIST dataset loaded with `keras.datasets.fashion_mnist`. It includes preprocessing the image data (normalization and reshaping), creating a Sequential model with Flatten and Dense layers, compiling it with an optimizer and loss function, training it with model.fit(), evaluating accuracy on test data, and making predictions on clothing images.
 
 [Convolutional Neural Networks](https://github.com/zs-x/TensorFlowNotes/blob/main/fCC_CNNs.ipynb)
 
